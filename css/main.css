@@ -1,0 +1,78 @@
+body {
+    font-family: 'Satisfy', cursive;
+    background-image: url('../grocery.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    width:100%; height:50%;
+
+
+}
+
+.main {
+    
+   	height: 700px;
+    width: 650px;
+	position: relative;
+	text-align: center;
+	width:100%; height:100%;
+	
+
+}
+
+.input {
+    background-image: url('../paper.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 280px;
+    height: 600px;
+    margin: 0 auto;
+    padding-bottom: 400;
+	position: relative;
+    
+}
+h1{
+	font-size: 38px;
+	padding-top: 115px;
+	margin: 0 auto;
+}
+#userInput{
+	margin: 0 auto;
+	padding-top: 1px;
+}
+#list li{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	list-style: none;
+	padding-top: 11px;
+	
+	
+}
+
+#list{
+	padding-top: 40px;
+	margin: 0 auto;
+	
+}
+span{
+	
+	font-size: 20px;
+	margin: 0 auto;
+}
+.checked{
+	position: relative;
+	vertical-align: middle;
+	width: 15px;
+	height: 15px;
+	margin: 0 auto;
+	
+}
+.delete{
+	position: relative;
+	vertical-align: middle;
+	width: 15px;
+	height: 15px;
+	margin-right: 50px;
+	float: right;
+	
+}
