@@ -37,20 +37,20 @@ h1{
 }
 #userInput{
 	margin: 0 auto;
-	padding-top: 1px;
+	padding-top: 15px;
 }
 #list li{
 	font-size: 15px;
 	font-weight: bold;
 	text-align: left;
 	list-style: none;
-	padding-top: 11px;
+	padding-top: 5px;
 	
 	
 }
 
 #list{
-	padding-top: 40px;
+	padding-top: 39px;
 	margin: 0 auto;
 	
 }
